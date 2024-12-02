@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06c5de5f32c62d648af4734fd56bf4d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPrefab: {instanceID: 0}
+  - buttonContainer: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - mainMenuMusic: {fileID: 8300000, guid: 1c3c6d111c9348547ba454e52ad5e0b2, type: 3}
+  - gameOverMusic: {instanceID: 0}
+  - enemyChasingMusic: {instanceID: 0}
+  - finalRoomMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
